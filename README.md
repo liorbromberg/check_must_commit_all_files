@@ -1,0 +1,2 @@
+# check_must_commit_all_files
+check_must_commit_all_files
